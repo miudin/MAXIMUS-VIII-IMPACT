@@ -2,6 +2,7 @@
 Hackintosh-EFI-M8I
 
 配置如下：
+
 CPU:Intel Core i7 8700K
 
 主板:MAXIMUS-VIII-IMPACT(m8i)
